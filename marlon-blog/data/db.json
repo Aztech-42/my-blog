@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to the Blog",
+      "body": "Hello and welcome, i hope you'll enjoy the blog, i'll post everyday so a daily blog.",
+      "author": "Marlon",
+      "id": 1
+    },
+    {
+      "title": "More things...",
+      "body": "Now i'm gonna start doing some projects (clones) of apps using react to have more training",
+      "author": "Marlon",
+      "id": 3
+    }
+  ]
+}
